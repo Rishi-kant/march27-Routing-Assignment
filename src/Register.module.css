@@ -1,0 +1,23 @@
+
+
+.container{
+    border: 2px solid;
+    height: 300px;
+    width: 300px;
+   margin: auto;
+   margin-top: 80px;
+   
+  }
+  .inpt{
+  height: 30px;
+  margin-left: 50px;
+  margin-top: 30px;
+  }
+  .btn{
+  margin-top: 30px;
+  margin-left: 136px;
+  width: 80px;
+  height: 30px;
+  background-color: rgb(66, 246, 246);
+  
+  }
